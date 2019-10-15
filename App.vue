@@ -2,7 +2,7 @@
 	import "@/common/index.css"
 	export default {
 		onLaunch: function() {
-			
+			console.log("测试git")
 		},
 		onShow: function() {
 			console.log('App Show')
