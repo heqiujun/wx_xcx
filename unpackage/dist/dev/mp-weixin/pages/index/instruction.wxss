@@ -1,0 +1,79 @@
+
+.navget image{
+	margin: 0rpx 20rpx;
+	width: 40rpx;
+	height: 40rpx;
+}
+.navget text{
+	margin: 0rpx 20rpx;
+	font-size: 32rpx;
+}
+.nav{
+	width: 100%;
+	min-height:1200rpx;
+	background: #EEEEEE;
+	border: 1rpx solid #EEEEEE;
+}
+/* .nav .navget:first-child{
+	margin-top: 20upx !important;
+} */
+.navget{
+	width: 96%;
+	height: 120rpx;
+	line-height: 120rpx;
+	border-radius: 10rpx;
+	background: #FFFFFF;
+	margin: 20rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.describe image{
+	width: 150rpx;
+	height: 180rpx;
+}
+.describe view:first-child{
+	width: 40%;
+	text-align: center;
+}
+.describe_zi{
+	width: 60%;
+}
+.describe_zi view:first-child{
+	font-weight: 600;
+	font-size: 40rpx;
+	line-height: 50rpx;
+}
+.describe_zi view:last-child{
+	font-size: 24rpx;
+	line-height: 50rpx;
+	color: #999999;
+}
+.describe{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	    -ms-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	width: 100%;
+	height: 300rpx;
+}
+

@@ -1,0 +1,1 @@
+<view class="content"><input type="text" placeholder="请输入商品ID" data-event-opts="{{[['input',[['__set_model',['','val','$event',[]]]]]]}}" value="{{val}}" bindinput="__e"/><image src="{{img}}" mode></image><button type="primary" data-event-opts="{{[['tap',[['creats',['$0'],['val']]]]]}}" bindtap="__e">生成二维码</button></view>

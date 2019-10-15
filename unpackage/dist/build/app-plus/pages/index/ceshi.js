@@ -1,0 +1,2 @@
+setCssToHead(["wx-button{ width: 80%; }\nwx-input{ height: ",[0,80],"; line-height: ",[0,80],"; width: 80%; margin: ",[0,20]," auto; background: #eee; color: #000; border-radius: ",[0,20],"; text-align: center; }\nwx-image{ display: block; margin: ",[0,50]," auto; width: ",[0,200],"; height: ",[0,200],"; }\n",],undefined,{path:"./pages/index/ceshi.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/ceshi.wxml') } }));

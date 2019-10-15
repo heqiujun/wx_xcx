@@ -1,0 +1,36 @@
+
+.logo {
+	width: 100%;
+	position: relative;
+}
+.logo image {
+	width: 100%;
+	margin: 0px auto;
+	display: block;
+	height: 400rpx
+}
+.z2 {
+	position: absolute;
+	bottom: 60rpx;
+	color: #FFF;
+	text-align: center;
+	width: 100%;
+	font-weight: bold
+}
+.z1 {
+	padding: 40rpx;
+	color: #222;
+	display: block;
+	width: 100%;
+}
+.hezi {
+	width: 100%;
+	display: block;
+}
+.hezi button {
+	width: 90%;
+	margin: 0px auto;
+	background: #04be01;
+	color: #FFF
+}
+
