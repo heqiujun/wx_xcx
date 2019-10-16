@@ -12,9 +12,7 @@
 		}
 	}
 </script>
-
-<style>
-	/*每个页面公共css */
+<style>/
 *{
 	font-size: 28upx;
 }
