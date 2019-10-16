@@ -80,12 +80,12 @@
         "usingComponents" : true
     },
     "h5" : {
-        "title" : "铁威马",
+        "title" : "何求军自己玩的网站",
         "router" : {
             "mode" : "hash",
             "base" : ""
         },
-        "domain" : "w.tcloudme.com",
+        "domain" : "www.hqj123.cn",
         "optimization" : {
             "treeShaking" : {
                 "enable" : true

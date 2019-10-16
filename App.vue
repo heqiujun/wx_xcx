@@ -2,13 +2,13 @@
 	import "@/common/index.css"
 	export default {
 		onLaunch: function() {
-			console.log("打虎上山")
+			console.log("进入的时候输入一次")
 		},
 		onShow: function() {
-			console.log('阿斯顿撒奥多所')
+			console.log('每次打开页面显示加载')
 		},
 		onHide: function() {
-			console.log('爱仕达多所')
+			console.log('每次页面消失显示加载')
 		}
 	}
 </script>
