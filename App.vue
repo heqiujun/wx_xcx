@@ -2,13 +2,10 @@
 	import "@/common/index.css"
 	export default {
 		onLaunch: function() {
-			
 		},
 		onShow: function() {
-			
 		},
 		onHide: function() {
-			
 		}
 	}
 </script>
