@@ -2,13 +2,13 @@
 	import "@/common/index.css"
 	export default {
 		onLaunch: function() {
-			console.log("测试git少时诵诗书所")
+			console.log("打虎上山")
 		},
 		onShow: function() {
-			console.log('App Show')
+			console.log('阿斯顿撒奥多所')
 		},
 		onHide: function() {
-			console.log('App Hide')
+			console.log('爱仕达多所')
 		}
 	}
 </script>
