@@ -1,11 +1,20 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "铁马威",
+				"h5": {
+					 "titleNView": false ,//禁用原生导航栏
+					 "bounce":"none"
+				 }
+			}	
+		},
 		{
 			"path": "pages/landing/index",
 			"style": {
 				"navigationBarTitleText": "授权",
-				// "navigationStyle": "custom"
-				// "navigationBarTextStyle":"white"
 				"h5": {
 					 "titleNView": false ,//禁用原生导航栏
 					 "bounce":"none"
@@ -14,36 +23,19 @@
 			
 		},
 		{
-			"path": "pages/index/index",
-			"style": {
-				"navigationBarTitleText": "铁马威",
-				// "navigationStyle": "custom"
-				// "navigationBarTextStyle":"white"
-				"h5": {
-					 "titleNView": false ,//禁用原生导航栏
-					 "bounce":"none"
-				 }
-			}	
-		},
-		{
 			"path": "pages/index/ceshi",
 			"style": {
 				"navigationBarTitleText": "铁马威",
-				// "navigationStyle": "custom",
-				// "navigationBarTextStyle":"white",
 				"h5": {
 					 "titleNView": false ,//禁用原生导航栏
 					 "bounce":"none"
 				 }
 			}	
 		},
-		
 		{
 			"path": "pages/index/instruction",
 			"style": {
 				"navigationBarTitleText": "说明书",
-				// "navigationStyle": "custom",
-				// "navigationBarTextStyle":"white"
 				"h5": {
 					 "titleNView": false ,//禁用原生导航栏
 					 "bounce":"none"

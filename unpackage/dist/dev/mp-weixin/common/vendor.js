@@ -8400,7 +8400,7 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/landing/index": { "navigationBarTitleText": "授权" }, "pages/index/index": { "navigationBarTitleText": "铁马威" }, "pages/index/ceshi": { "navigationBarTitleText": "铁马威" }, "pages/index/instruction": { "navigationBarTitleText": "说明书" } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/landing/index": { "navigationBarTitleText": "授权", "usingComponents": {} }, "pages/index/index": { "navigationBarTitleText": "铁马威", "usingComponents": {} }, "pages/index/ceshi": { "navigationBarTitleText": "铁马威", "usingComponents": {} }, "pages/index/instruction": { "navigationBarTitleText": "说明书", "usingComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */

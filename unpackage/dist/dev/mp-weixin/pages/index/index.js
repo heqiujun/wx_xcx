@@ -185,12 +185,12 @@ var _default = { data: function data() {return { title: '你好!', array: [{ id:
     //   }
     // });
 
-    uni.getUserInfo({
-      provider: 'weixin',
-      success: function success(infoRes) {
-        console.log(infoRes);
-      } });
-
+    // uni.getUserInfo({
+    //   provider: 'weixin',
+    //   success: function (infoRes) {
+    //     console.log(infoRes);
+    //   }
+    // });
   },
   onReady: function onReady(res) {
     this.videoContext = uni.createVideoContext('myVideo');

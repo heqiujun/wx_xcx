@@ -61,12 +61,12 @@
 			//   }
 			// });
 			
-			uni.getUserInfo({
-			  provider: 'weixin',
-			  success: function (infoRes) {
-			    console.log(infoRes);
-			  }
-			});
+			// uni.getUserInfo({
+			//   provider: 'weixin',
+			//   success: function (infoRes) {
+			//     console.log(infoRes);
+			//   }
+			// });
 		},
 		onReady: function (res) {
 		    this.videoContext = uni.createVideoContext('myVideo')

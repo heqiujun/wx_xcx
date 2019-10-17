@@ -95,16 +95,10 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 __webpack_require__(/*! @/common/index.css */ 12);var _default =
 {
   onLaunch: function onLaunch() {
-    console.log("第一次进入小程序");
-
   },
   onShow: function onShow() {
-    console.log("每次进入这个页面");
-
   },
   onHide: function onHide() {
-    console.log("每次从这个页面消失");
-
   } };exports.default = _default;
 
 /***/ }),

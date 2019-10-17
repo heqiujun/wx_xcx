@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/landing/index",
     "pages/index/index",
+    "pages/landing/index",
     "pages/index/ceshi",
     "pages/index/instruction"
   ],
@@ -17,6 +17,5 @@
       "desc": "你的位置信息将用于小程序位置接口的效果展示"
     }
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap11.json"
+  "usingComponents": {}
 }
